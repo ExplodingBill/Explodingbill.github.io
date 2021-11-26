@@ -7,6 +7,10 @@
   overflow: hidden;
 }
 
+.Pusab { 
+    font-family:  Market Deco;
+}
+
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
